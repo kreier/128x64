@@ -49,18 +49,18 @@ Source: https://www.lazada.vn/products/module-led-p4-full-color-trong-nha-module
 
 Parameter:
 
-– Full color: height 32*384
-– Seven colors: 32 * 768
-– Supports many languages, Vietnamese, English
-– Soft supports IOS, Android,
-– Communication method: WIFI
-– Working voltage: + 4.5V ~ 6V
-– Maximum power consumption: <1W
-– Working temperature: -30 ° C ~ 70 ° C
+- Full color: height 32*384
+- Seven colors: 32 * 768
+- Supports many languages, Vietnamese, English
+- Soft supports IOS, Android,
+- Communication method: WIFI
+- Working voltage: + 4.5V ~ 6V
+- Maximum power consumption: <1W
+- Working temperature: -30 ° C ~ 70 ° C
 
-– Supports various indoor and outdoor unit boards: HUB75E interface board with different specifications.
-– Support for special chips: such as ICN2038S.
-– Specialized for full-color matrix LEDs
+- Supports various indoor and outdoor unit boards: HUB75E interface board with different specifications.
+- Support for special chips: such as ICN2038S.
+- Specialized for full-color matrix LEDs
 
 Source: https://www.lazada.vn/products/card-module-led-wf1-dieu-khien-led-full-mau-full-color-qua-usbwifi-dieu-khien-dien-thoai-i2182304176-s10346446386.html
 
